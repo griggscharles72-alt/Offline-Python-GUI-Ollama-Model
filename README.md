@@ -154,6 +154,4 @@ You now have:
 
 ---
 
-If it throws any error, paste it and we fix only that line.
-
-This is the stable path.
+If it throws any error, paste it and we fix only that line
