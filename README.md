@@ -151,7 +151,3 @@ You now have:
 * No Docker
 * No VPN dependency
 * No IP routing drama
-
----
-
-If it throws any error, paste it and we fix only that line
